@@ -25,6 +25,7 @@
 
 - 참고문헌 및 코드  
 [http://kko.to/DhikTz8D0]
+[https://github.com/google-research/electra]
 [https://github.com/changdukkim/changdukkim-SA-Competition-BDC101]
 
 ### 2. 영문 Friends 드라마 대본 데이터 감정 분석  
@@ -49,6 +50,7 @@
 
 - 참고문헌 및 코드  
 [https://github.com/jiwonny/nlp_emotion_classification/blob/master/friends_electra.ipynb]
+[https://github.com/google-research/electra]
 [https://github.com/changdukkim/changdukkim-SA-Competition-BDC101]
 
 * 참고 문헌 및 코드:  
